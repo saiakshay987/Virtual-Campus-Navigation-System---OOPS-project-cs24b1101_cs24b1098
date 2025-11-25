@@ -158,7 +158,7 @@ g++ src/main.cpp src/Location.cpp src/GUIHandler.cpp `
 
 ---
 
-## 🎮 Usage Guide
+##  Usage Guide
 
 ### Launching the Application
 ```powershell
